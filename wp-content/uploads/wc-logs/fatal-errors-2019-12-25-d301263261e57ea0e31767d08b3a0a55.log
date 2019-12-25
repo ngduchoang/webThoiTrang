@@ -1,0 +1,1945 @@
+2019-12-25T10:17:26+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1805): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\rewrite.php(278): WP_Rewrite->flush_rules(true)
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php(233): flush_rewrite_rules()
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL::apply_rewrite in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:20:17+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:20:35+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:20:51+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:20:58+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:15+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:15+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:15+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:15+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:15+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:15+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:16+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:21:33+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:12+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:12+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:12+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:12+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:12+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:12+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:13+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:14+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:46+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:46+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:46+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:46+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:46+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:47+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:47+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:47+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:47+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:49+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:49+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:49+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:54+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:54+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:54+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:54+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:22:55+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:24:23+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:24:23+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:24:23+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:24:23+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:24:23+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:00+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:00+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:00+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:00+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:00+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:01+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:02+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:03+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:03+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:03+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:03+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:03+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:03+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:04+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:04+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:04+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:08+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:08+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:08+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:08+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:25:08+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:22+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:22+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:22+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:22+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:30+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:30+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:30+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:30+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:30+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:30+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:31+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:31+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:31+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:31+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:31+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:33+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:26:33+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:27:31+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:27:48+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:08+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:34+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:52+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:52+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:52+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:52+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:28:52+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:29:34+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:29:45+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:29:51+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:30:40+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1805): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\rewrite.php(278): WP_Rewrite->flush_rules(true)
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php(144): flush_rewrite_rules()
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): deactivation_tinv_wishlist(fals in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:30:46+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1805): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\rewrite.php(278): WP_Rewrite->flush_rules(true)
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php(144): flush_rewrite_rules()
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): deactivation_tinv_wishlist(fals in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:30:54+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1805): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\rewrite.php(278): WP_Rewrite->flush_rules(true)
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\ti-woocommerce-wishlist.php(144): flush_rewrite_rules()
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): deactivation_tinv_wishlist(fals in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:31:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1805): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\rewrite.php(278): WP_Rewrite->flush_rules(true)
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php(233): flush_rewrite_rules()
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL::apply_rewrite in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
+2019-12-25T10:31:32+00:00 CRITICAL Uncaught Error: Unsupported operand types in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-hook.php(288): TInvWL_Public_TInvWL->add_rewrite_rules_raw(Array)
+#1 C:\xampp\htdocs\ShopThoiTrang\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1443): apply_filters('rewrite_rules_a...', Array)
+#3 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp-rewrite.php(1464): WP_Rewrite->rewrite_rules()
+#4 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(160): WP_Rewrite->wp_rewrite_rules()
+#5 C:\xampp\htdocs\ShopThoiTrang\wp-includes\class-wp.php(729): WP->parse_request('')
+#6 C:\xampp\htdocs\ShopThoiTrang\wp-includes\functions.php(1255): WP->main('')
+#7 C:\xampp\htdocs\ShopThoiTrang\wp-blog-header.php(16): wp()
+#8 C:\xampp\htdocs\ShopThoiTrang\index.php(17): require('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\ShopThoiTrang\wp-content\plugins\ti-woocommerce-wishlist\public\tinvwl.class.php on line 110
+
